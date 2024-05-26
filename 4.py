@@ -2,7 +2,6 @@ import uuid
 import heapq
 import networkx as nx
 import matplotlib.pyplot as plt
-import queue
 
 
 class Node:
